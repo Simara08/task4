@@ -1,0 +1,3 @@
+/([\d[\W]+)(?=[\s\.\?\-\W])/gm-- nömrə tapma
+/[\w\.\-]+@[a-z]+[\.||\-][a-z]+[\.a-z]/gm-- mail tapma
+/[a-z0-9\-]+[\.][a-z]+[\.a-z]+/gm sayt tapma
